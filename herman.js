@@ -722,8 +722,8 @@ case 'sewabot':
 daftar = `Halo ka ${pushname}
 ━━━━━ • ஜ • ❈ • ஜ • ━━━━━
 • 🛒List Harga Sewa Botz🛒
-💰 3k 1minggu
-💰 5k permanen
+💰 5k 1minggu
+💰 10k permanen
 minat ? Hubungi Owner Ketik #owner 
 ━━━━━ • ஜ • ❈ • ஜ • ━━━━━
 `
